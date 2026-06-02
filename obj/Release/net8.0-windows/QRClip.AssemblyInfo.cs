@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QRClip")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0363e03f663dde1557605582168e3afb7f8f8c6c")]
 [assembly: System.Reflection.AssemblyProductAttribute("QRClip")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QRClip")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

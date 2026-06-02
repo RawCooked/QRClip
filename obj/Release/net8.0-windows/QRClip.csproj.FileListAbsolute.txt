@@ -22,3 +22,6 @@ C:\Users\admin\Documents\CRcode\QRClip\obj\Release\net8.0-windows\refint\QRClip.
 C:\Users\admin\Documents\CRcode\QRClip\obj\Release\net8.0-windows\QRClip.pdb
 C:\Users\admin\Documents\CRcode\QRClip\obj\Release\net8.0-windows\QRClip.genruntimeconfig.cache
 C:\Users\admin\Documents\CRcode\QRClip\obj\Release\net8.0-windows\ref\QRClip.dll
+C:\Users\admin\Documents\CRcode\QRClip\obj\Release\net8.0-windows\UI\SettingsWindow.baml
+C:\Users\admin\Documents\CRcode\QRClip\obj\Release\net8.0-windows\UI\SettingsWindow.g.cs
+C:\Users\admin\Documents\CRcode\QRClip\obj\Release\net8.0-windows\QRClip.sourcelink.json
